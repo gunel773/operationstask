@@ -16,6 +16,9 @@ for (int i = num1; i < num2; i++)
 }
 Console.WriteLine(count);
 #endregion
+
+
+
 #region sade murekkeb mueyyen et
 //Sade yoxsa murekkeb
 Console.WriteLine("Ededi daxil edin:");
@@ -39,6 +42,10 @@ else
     Console.WriteLine("Daxil etdiyiniz eded sadedir");
 }
 #endregion
+
+
+
+
 #region 2 nin quvveti?
 //2nin quvvetidirmi
 Console.WriteLine("Ededi daxil edin:");
@@ -58,6 +65,10 @@ else
     Console.WriteLine("Eded 2nin quvveti deyil");
 }
 #endregion
+
+
+
+
 #region mertebe sayi
 //mertebe sayi
 int a = int.Parse(Console.ReadLine());
