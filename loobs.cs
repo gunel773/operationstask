@@ -1,5 +1,6 @@
 ﻿//Saturday Tasks
-#region single num
+
+#region     Tek ededler
 //Tək ədədlərin sayı
 Console.WriteLine("Eded araliqini daxil edin:");
 int num1 = int.Parse(Console.ReadLine());
@@ -19,7 +20,7 @@ Console.WriteLine(count);
 
 
 
-#region sade murekkeb mueyyen et
+#region sade Murekkeb mueyyen et
 //Sade yoxsa murekkeb
 Console.WriteLine("Ededi daxil edin:");
 int num = int.Parse(Console.ReadLine());
@@ -46,7 +47,7 @@ else
 
 
 
-#region 2 nin quvveti?
+#region             2 nin quvveti?
 //2nin quvvetidirmi
 Console.WriteLine("Ededi daxil edin:");
 int power = 0;
@@ -69,7 +70,7 @@ else
 
 
 
-#region mertebe sayi
+#region Mertebe sayi
 //mertebe sayi
 int a = int.Parse(Console.ReadLine());
 int floor = 0;
